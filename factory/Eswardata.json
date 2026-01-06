@@ -1,0 +1,9 @@
+{
+	"name": "Eswardata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "615d2285-ca2c-4d1e-83d2-8d38c683737e",
+		"tenantId": "246410cb-21a8-41f6-8a67-c9291a8ef427"
+	}
+}
